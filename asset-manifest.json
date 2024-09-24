@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cursos-react-localstorage-test/static/css/main.b7c1ce65.css",
-    "main.js": "/cursos-react-localstorage-test/static/js/main.4227eec5.js",
+    "main.js": "/cursos-react-localstorage-test/static/js/main.ddb3438c.js",
     "index.html": "/cursos-react-localstorage-test/index.html",
     "main.b7c1ce65.css.map": "/cursos-react-localstorage-test/static/css/main.b7c1ce65.css.map",
-    "main.4227eec5.js.map": "/cursos-react-localstorage-test/static/js/main.4227eec5.js.map"
+    "main.ddb3438c.js.map": "/cursos-react-localstorage-test/static/js/main.ddb3438c.js.map"
   },
   "entrypoints": [
     "static/css/main.b7c1ce65.css",
-    "static/js/main.4227eec5.js"
+    "static/js/main.ddb3438c.js"
   ]
 }
