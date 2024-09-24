@@ -11,7 +11,13 @@ function App() {
 
 	function createNewTask(taskName) {
 		if (!tasksItems.find((task) => task.name === taskName)) {
-			setTasksItems([...tasksItems, { name: taskName, done: false }]);
+			if(!taskName == '') {
+				setTasksItems([...tasksItems, { name: taskName, done: false }]);
+			} else {
+				alert('La tarea no puede tener el nombre en blanco.')
+			}
+		} else {
+			alert('Ya existe una tarea con este nombre.')
 		}
 	}
 
